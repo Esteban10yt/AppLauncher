@@ -1,2 +1,2 @@
 # AppLaucher
-Website Launcher por prtableApps.com
+Website Launcher for portableApps.com
