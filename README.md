@@ -10,6 +10,7 @@ Website Launcher for portableApps.com
 -It's called app launcher, because it can work with any file, like .ink (shorcuts), .url (websites) and more. 
 
 ![image](https://user-images.githubusercontent.com/83312643/146023908-06bdd6bb-9471-465e-b905-b13ea29bb546.png) 
+Modify the ini file in App\AppInfo folder
 
 ----------------------------------------
 -The file must be inside the app folder 
