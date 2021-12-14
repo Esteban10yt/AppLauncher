@@ -1,0 +1,30 @@
+[Format]
+Type=PortableApps.comFormat
+Version=2.0
+
+[Details]
+Name=My Apps
+AppId=AppLauncher
+Publisher=Esteban_10YT
+Homepage=PortableApps.com/node/21757
+Category=Utilities
+Description=Runs apps
+Language=Multilingual
+
+[License]
+Shareable=true
+OpenSource=true
+Freeware=false
+CommercialUse=true
+
+[Version]
+PackageVersion=1.0.0.1
+DisplayVersion=1.0 Release 1
+
+[Control]
+Icons=2
+Start=site.ink
+Start1=youtube.bat
+Name1=Youtube
+Start2=Office.bat
+Name2=Office

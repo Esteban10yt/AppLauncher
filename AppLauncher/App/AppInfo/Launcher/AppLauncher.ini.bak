@@ -1,0 +1,4 @@
+[Launch]
+ProgramExecutable=Site
+DirectoryMoveOK=yes
+SupportsUNC=yes
