@@ -21,6 +21,6 @@ Modify the ini file in App\AppInfo folder
 -The app isn't complete get 
 -Some Issues and Development in the app is missing  
 -AppLauncher.exe Doesn't work   
--Applauncher.exe is recognized as a virus by some antiviruses 
+-Applauncher.exe is recognized as a virus by some antiviruses   
 -No friendly user interface 
 
