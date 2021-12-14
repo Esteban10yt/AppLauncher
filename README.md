@@ -1,2 +1,2 @@
-# AppLaunhcer
+# AppLaucher
 Website Launcher por prtableApps.com
